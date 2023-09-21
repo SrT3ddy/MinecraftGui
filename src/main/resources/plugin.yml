@@ -1,0 +1,8 @@
+name: MinecraftGui
+version: '${project.version}'
+main: com.minecraftbrasil.teddy.minecraftgui.MinecraftGui
+api-version: '1.13'
+commands:
+  menu:
+    description: Abre o menu de exemplo
+    usage: /menu
